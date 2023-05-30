@@ -1,0 +1,61 @@
+body {
+      font-family: Arial, sans-serif;
+        background-color: #f1f1f1;
+          text-align: center;
+            margin-top: 30px;
+            }
+
+            .container {
+              max-width: 320px;
+                margin: 0 auto;
+                  padding: 20px;
+                    background-color: #fff;
+                      border-radius: 5px;
+                        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+                        }
+
+                        h1 {
+                          font-size: 24px;
+                            margin-bottom: 20px;
+                            }
+
+                            .word-container {
+                              margin-bottom: 20px;
+                              }
+
+                              .word-row {
+                                margin-bottom: 10px;
+                                }
+
+                                .letter-input {
+                                  width: 30px;
+                                    height: 30px;
+                                      margin-right: 5px;
+                                        text-align: center;
+                                          font-size: 18px;
+                                            border: 1px solid #ccc;
+                                              border-radius: 5px;
+                                              }
+
+                                              .check-button {
+                                                background-color: #4caf50;
+                                                  color: #fff;
+                                                    border: none;
+                                                      padding: 10px 20px;
+                                                        text-align: center;
+                                                          font-size: 16px;
+                                                            cursor: pointer;
+                                                              border-radius: 5px;
+                                                              }
+
+                                                              .result-container {
+                                                                display: none;
+                                                                  margin-top: 20px;
+                                                                  }
+
+                                                                  .result {
+                                                                    font-size: 18px;
+                                                                      font-weight: bold;
+                                                                      }
+                                                                      
+}
